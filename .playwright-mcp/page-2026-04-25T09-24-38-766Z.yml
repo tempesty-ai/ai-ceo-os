@@ -1,0 +1,26 @@
+- generic [ref=e11]:
+  - main [ref=e12]:
+    - generic [ref=e13]:
+      - generic [ref=e15]:
+        - link "Instagram" [ref=e16] [cursor=pointer]:
+          - /url: /accounts/emailsignup/
+          - img "Instagram" [ref=e17]
+        - link "로그인" [ref=e19] [cursor=pointer]:
+          - /url: /accounts/login/?next=%2F&source=mobile_nav
+      - generic [ref=e20]:
+        - generic [ref=e21]:
+          - img "오류" [ref=e23]
+          - generic [ref=e26]: Profile을(를) 이용할 수 없습니다
+          - generic [ref=e28]: 링크가 잘못되었거나 프로필이 삭제되었을 수 있습니다.
+        - button "Instagram 가입하기" [ref=e30] [cursor=pointer]
+  - generic [ref=e31]:
+    - button "닫기" [ref=e33] [cursor=pointer]:
+      - img "닫기" [ref=e35]
+    - generic [ref=e39]:
+      - text: 계속하면 Instagram
+      - link "이용 약관" [ref=e40] [cursor=pointer]:
+        - /url: https://help.instagram.com/581066165581870/?locale=ko_KR
+      - text: 및
+      - link "개인정보처리방침" [ref=e41] [cursor=pointer]:
+        - /url: https://privacycenter.instagram.com/policy/
+      - text: 에 동의하게 됩니다.

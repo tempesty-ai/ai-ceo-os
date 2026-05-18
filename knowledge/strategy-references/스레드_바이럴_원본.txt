@@ -1,0 +1,907 @@
+- 17만
+
+신입사원은 아니지만.. 사원증 자랑 좀 할게💜
+어제 막 나온 따끈따끈한 우리 회사 사원증 어때?
+
+- 2.9만
+
+왜 내가 만든 이미지는 AI 티가 날까?!그건 바로 피부 질감 때문이야!! 미드저니로 이미지를 만들면 기본적으로 매끈한 느낌 또는 고무 질감으로 피부가 표현되는 경우가 강하기 때문에 필수적으로 피부 질감을 보완해주는 과정을 거쳐야해!! 이 과정을 보통 "업스케일링"이라고 부르는거지! 결과물을 보면 차이는 하늘과 땅차이!!!그럼 제일 손쉽게 보정할 수 있는 방법 알려줄게!
+
+방법은 바로 노르디(
+
+[nordy.ai](https://l.threads.com/?u=https%3A%2F%2Fnordy.ai%2F&e=AT3xZkr-biNoijy3z4FegOQ3bLIFh4knMeuKwpYIHR1wkMm7TRa_PGBsD8USqAfjgFEAX6XfZNhMSvBfakJFUzB11fZBAXSgWXzd2lJB8hybh2p1spgoBBBOHPbhtxGRhIkooSs)
+
+)에서 comfy ui를 사용하는 방법!!ComfyUI에 피부 질감 LoRA나 디테일 업스케일 모델 얹으면 그 특유의 플라스틱 피부 느낌이 확 줄어. Supir 같은 업스케일러 덕분에 실제 촬영 같은 질감까지 가능한거지! 거기다 노르디에서는 다른 사람들이 만들어놓은 워크플로우를 쓸 수 있어서 사용법도 간단해!신규 가입하면 무료 크레딧도 주니까, AI티 안 나는 이미지를 만들어보고 싶은 사람들에게 꼭 추천할게! 내가 쓴 워크플로우가 알고 싶다면 댓글로 적어줘~
+
+- 3만
+
+속보) 젠스파크에서 드디어 윈도우용 AI 브라우저를 출시했습니다!
+웹페이지 어디서든 MCP 조작, 브라우저 자동화, 페이지 요약, 팟캐스트 생성, 온디바이스 모델 지원, 슬라이드 제작까지 가능합니다.
+실제로 활용된 놀라운 사례 9가지를 정리했습니다
+
+- 2만
+
+일관성 유지, ai 뷰티화보 제작
+
+1. 미드저니
+2. 나노바나나
+3. 클링 ai
+순서대로 차근차근 만들었어
+AI 티가 덜 나는 자연스러운 무드가 내 추구미 ... 🧡
+제작에 썼던 나노바나나 활용 3가지 적어놓을게!
+
+1번 모델이 2번 이미지의 틴트를 (틴트 누끼컷 삽입) 들고 있게 해줘, 바스트샷으로 왼손에는 튜브부분을 들고있고 오른손으로는 입술에 바르고 있는 연출 
+
+입술로 익스트림 클로즈업해줘 
+
+- 10만
+
+상황에 따른 AI 추천해드림1. 딱 하나만 유료 결제 해야한다 = 챗GPT
+2. 무료로 최첨단 AI 모델 사용하고 싶다 = 구글 AI Studio
+3. 리서치 자료를 기반으로 PPT 만들고 싶다 = Genspark
+4. 원하는 시간에 주제 조사해서 뉴스레터 받고 싶다 = Flowith, Manus
+5. 미국 주식 데이터 기반으로 투자하고 싶다 = Perplexity SEC 검색
+6. 최근 핫한 바이럴 AI 영상 만들고 싶다 = 구글 Veo 3
+7. 학습 및 연구 원탑 AI = 그냥 NotebookLM 이게 최고
+8. 자연스러운 음성 생성 및 복제 하고 싶다 = 일레븐랩스
+9. 디자인 특화 통합된 AI 쓰고 싶다 = Krea
+10. AI로 맞춤형 프로그램을 개발하고 싶다 = V0, Replit (노코드), Cursor(코드)
+11. 작품같은 AI 이미지 만들고 싶다 = 미드저니
+12. 올인원 AI 쓰고 싶다 = Genspark내 스레드만 봐도 수 백만원 AI 강의 안들어도됨
+
+- 9.6만
+
+한국 대기업 마케팅팀에서 '절대 유출 금지'로 관리하던 AI 프롬프트 템플릿을 공개합니다.
+일반 마케터들이 쓰는 '~해줘' 수준의 프롬프트는 이제 효과가 없어요. 실무자들이 검증한 '프롬프트 체인' 방식으로 마케팅 기획 시간을 70% 이상 단축할 수 있습니다.
+이 템플릿은 제가 50개 이상의 이커머스, 마케팅 자동화 프로젝트에서 직접 테스트하고 개선한 것들이에요.
+특히 브랜드 메시지 개발부터 타겟 고객 분석, 경쟁사 모니터링까지 마케팅 전 영역을 커버합니다.
+AI마케팅혁신
+
+첫번째로 공개할 템플릿은 '타겟 고객 페르소나 구축' 프롬프트입니다.
+일반적인 방식: "20-30대 여성 타겟 페르소나 만들어줘"
+대기업 방식: 3단계 프롬프트 체인으로 구성
+1단계: "[업종]의 최근 3년간 소비자 트렌드 데이터를 기반으로 핵심 구매층 5개 세그먼트 도출"
+2단계: "1번 결과 중 [세그먼트A]에 해당하는 고객의 라이프스타일, 소비 습관, 구매 여정, 페인포인트를 상세히 분석"
+3단계: "2번 결과를 바탕으로 우리 브랜드의 핵심 가치와 연결된 구체적 페르소나 스토리 작성. 이름, 나이, 직업, 일상, 구매 의사결정 과정 포함"
+이렇게 단계별로 접근하면 현실적이고 마케팅에 바로 활용 가능한 페르소나가 나옵니다
+
+두번째 템플릿은 '경쟁사 차별화 전략 도출' 프롬프트입니다.이것도 일반적인 "경쟁사와 차별화 포인트 알려줘" 방식으로는 깊이 있는 인사이트가 나오지 않아요.대신 이런 체인 방식을 써보세요:1단계: "[업종] 시장의 상위 5개 경쟁사 제품/서비스의 핵심 기능, 가격, 타겟층, 마케팅 메시지를 표로 정리"2단계: "1번 결과를 바탕으로 각 경쟁사의 강점, 약점, 포지셔닝 전략 분석"3단계: "2번 분석을 기반으로 우리 브랜드만의 블루오션 기회 영역 3가지 도출 및 각각에 대한 구체적 실행 전략 제안"이런 방식으로 프롬프트를 구성하면 실제 마케팅 전략에 바로 활용할 수 있는 깊이 있는 인사이트를 얻을 수 있어요.더 많은 AI 마케팅 자동화 팁이 필요하시면 제 프로필에서 다른 글들도 확인해보세요! 실무에서 바로 쓸 수 있는 비법들을 계속 공유하고 있습니다.
+
+- 47만
+
+AI 안 쓰면 올해도 돈 못 법니다
+꼭 알려줘도 안쓰더라;
+
+1. ChatGPT – 이메일,마케팅 카피 등 글쓰기 자동화
+2. Jasper AI – 광고 글을 빠르고 고퀄리티로 작성
+3. Midjourney – AI로 이미지, 상세페이지 제작
+4.Runway AI – 영상 자동 편집 및 효과 적용
+4. DeepL – 구글 번역보다 자연스러운 AI 번역기
+5. Perplexity AI – 정보를 정확하게 검색하는 AI 엔진
+6. Synthesia – AI 아바타가 영상 속에서 말하는 홍보·교육 콘텐츠 제작
+7. Gamma App – 제안서·PPT를 AI가 자동 생성
+8. Make – 클릭 몇 번으로 업무 자동화
+9. Canva AI –초보도 쉽게 포스터·SNS 이미지 제작
+
+- 80만
+
+대학생들은 열어보지 마세요, 너무 유용할 수 있습니다.
+
+1. 산업 조사 및 해외 기업 분석 = Perplexity
+2. 연구자료 검색 = Liner
+3. 유튜브 영상 분석 = Lilys
+4. 회의록 및 강의 실시간 요약 = Tiro
+5. 강의 자료 정리 및 이해 = NotebookLM
+6. 자료조사 = 챗GPT 에이전트 모드, Gemini 딥리서치
+7. PPT 제작 = Manus, Genspark
+8. 웹 퀴즈, 설문 자동화 = Perplexity Comet
+9. 디자인 생성 = Canva
+10. 자료 기록 및 정리 = Notion
+11. 이미지 합성 = 구글 AI Studio 나노바나나
+12. 해외 논문 쉽게 보기 = alphaXiv
+13. 무료 프로토타입 웹 사이트 만들기 = AI Studio Build Apps
+댓글에 무료 및 할인 정보도 놓치지 마 👇🏻
+
+- 34만
+
+요즘 난리난 "나노 바나나" 가이드북 🔥진짜 열심히 만들었는데
+100% 무료로 공유해 드립니다!아직 자료 신청 안하신 분들은
+팔로우 + 댓글만 남겨주세요!Dm으로 보내드리겠습니다 :)
+
+- 4.2만
+
+할머니가 Gemini 얘기하는 걸 보고 정신이 번쩍 들었다.
+카페에서 70대 쯤 보이는 할머니가 할아버지랑
+챗GPT와 Gemini의 차이점에 대해 얘기하고 계시더라.
+"아직도 AI 안써본 사람도 많다."라고 생각했는데
+이젠 아니다.
+이제 AI는 선택이 아니라 필수가 되어
+우리의 삶에 스며들게 된 것 같다.
+
+- 13만
+
+무조건 봐야하는 해외 AI 유튜버1. [Liam Ottley] - 구독자 422,000명
+AI 자동화 에이전시 창시자. 이 사람만 봐도 인사이트 넘쳐남.2. [Nick Saraev] - 구독자 50,500명
+Make, n8n 자동화 퀄리티 미쳤음.3. [Jeff Su] - 구독자 1,020,000명
+초보자한테 너무 좋은 내용 + 영상 편집이 너무 맛있음.4. [Stephen G.Pope] - 구독자 51,800명
+수준 높은 자동화 시나리오. 자동화 고수 되려면 필수.5. [Eugene Kadzin] - 구독자 7,410명
+에이전시 고객 미팅을 실제로 보여줌. 엄청 도움됨.리포스트 많으면 아래 파일 공유할게! (총 28명)
+
+- 12만
+
+인사팀 아저씨가 들려주는,
+[자소서 쓸때 도움되는 ai 프롬프트 모음 5선] 🪐
+1.지원동기 🚀
+: 너는 (지원기업)인사팀장을 맡고 있는 면접관이야. 너라면 회사에 지원할때, 지원자가 어떤 지원동기를 가지고 있으면 좋겠어? 회사의 인재상과 사업방향에 맞추어서 3가지 정도로 요약부탁해.
+2.기업조사 🛰️
+: 너는 (지원기업)의 ir담당자야. 주주가 전화를 와서 기업에 대한 여러가지 궁금한점에 대해 물어보고 있을때, 너라면 (지원기업)에 대해 어떤식으로 설명해줄거야?
+3.장점/단점 ☄️
+: 너는 (지원기업)인사팀장과 (지원직무)파트장을 겸임하고 있어. 너라면 (지원직무)부서에 어떤 장점을 가진 사람이 왔으면 좋겠니?
+4.극복경험 👩‍🚀
+: 너는 (지원직무)팀장이야. 부하직원을 새로 채용해야하는 상황일때 부하직원이 어떤 극복경험을 가지고 있으면 좋겠니? 지원직무와 연관지어 예시를 2가지 정도만 들어줘..(댓글이어서👇
+
+- 2.4만
+
+너무 많은 AI 툴
+필요한 상황에 맞춰서
+딱 이거만 쓰면 끝.
+
+1. 실사급 AI 모델·인플루언서 → HiggsField
+2. 진짜 같은 음성 생성·복제 → ElevenLabs
+3. 무료로 고성능 영상 분석 → Google AI Studio
+4. 회의 실시간 번역 + 자동 노트 → Tiro
+5. 음악 생성 → Suno
+6. 유튜브 영상 한 방에 요약 → Lilys AI
+7. 다 귀찮아, 올인원 하나로 → Genspark
+8. AI 정보 무료로 받아보고 싶으면 파파준스 팔로우
+
+- 6.9만
+
+제발 이런 쓰레기 광고 좀 없어졌으면 좋겠다 AI 영상에 내용도 허황된걸 마치 전문가가 말하는것마냥 만들어서 사람 속이는 혐오스러운 광고
+
+- 3.4만
+
+AI로 애니메이션 만들기 프로젝트 1일차
+이미지 초안 : Flamel ai
+일관성 유지 이미지 생성 : Nanobanana
+이미지 → 영상 변환 : Hailuo ai
+효과음 생성 : Adobe Firefly
+영상 편집 : Adobe Premiere
+제작 시간 : 30분
+
+- 2.7만
+
+10억 날리고 알게 된 의외의 사실
+10억 넘게 날리고 배운 건
+겸손하지 않아서 망하는
+경우도 있다는 것이다.
+재수가 없어져서도 아니고
+꼴불견 되기 때문도 아니고
+다른 사람 질투 때문도 아니다.
+겸손하지 않아지면
+아무 곳에서도 배우고 싶지 않아진다.
+내 생각이 정답이라고 여기게 된다.
+생각대로만 밀어붙이게 된다.
+그로 인해 고이게 되고
+도태되기 시작한다.
+
+- 3.8만
+
+연락 안 되는 사람
+제발 보내주세요
+연락 안 되는 사람이랑 관계를
+이어가는 거는 좋은데,
+만약에 그거 내가 힘들잖아요?
+그럼 하지 마세요.
+그 집착적 에너지를 다른 곳에 쓰면
+인생이 훨씬 빠르게 좋아집니다.
+
+- 4.3만
+
+월 10억씩 버는 사업가가 가르쳐준 5가지
+월 10억씩 버는 사업가가
+저한테 얘기해 줬던
+다섯 가집니다.
+'다섯 가지 알려줄게'
+이런 게 아니라
+말했던 걸 정리한 거예요.
+
+1. 끝난 기회에 목매지 마라
+2. 일어나지도 않은 일을 걱정하지 마라
+3. 떠나보낼 때는 손해 보고 보내줘라
+4. 일단 실행해라
+5. 패배한 사람을 조롱하지 마라
+
+- 38만
+
+[**fruit_matjip**](https://www.threads.com/@fruit_matjip)
+
+[2024년 12월 29일 오후 7:40](https://www.threads.com/@fruit_matjip/post/DEKMVqTzy7C)
+
+백화점 들어가는 물건들을
+저렴하게 팔면 어떨까? 하는 생각이 들었어어제 내가 간만에 더현대에 갔다왔는데
+은근히 아는 농부들 이름이 많이보이더라구 ㅋㅋㅋ내가 경매봐서 가져오는 제품들중에서도
+낯이 익은 이름들이 몇 보여서 한번 물어봐.예를들면 저기
+불로초 감귤 같은던 백화점에서 49,000원인데
+나는 한 3만 5천원만 받아도 될것같아
+택배비 모두 포함한 가격을 말하는거야.내가 과일을 하면서 느끼는건데,
+프리미엄 과일들엔 아직 꽤나 거품이 많이 끼어있어
+물론 진열이나 , 디피
+이런것들을 고급스럽게 해놓기에
+들어가는 비용이 많을 수는 있지만같은 제품을 그냥 택배로 판다면?
+무진장 비싸게 받을 이유는 없거든!프리미엄과일들은
+아예 맛이 달라....
+진짜 무진장 맛있음!!!예를들어서 보통 우리가 먹는 귤이 11-12브릭스라면
+15브릭스 이상 당도가 나오는 귤이 프리미엄과야이런건 애초에 시장에 잘 유통도 되지않을뿐더러
+먹는 사람이 한정적이기에,
+
+- 2.9만
+
+[무화과 케이크 19,900원 9월 판매공지]
+하루 수량은 30개 한정이구 ㅠㅠ
+(이건 매장 방문 고객용 프로모션 상품이라서 저렴해)
+식물성 크림 동물성크림 물어보는 쓰친이들 많은데
+우리 동물성 100% 사용하고있어
+
+- 20만회
+
+케이크 보냉백 중국에서 제작한건데 어때?
+어줍잖게 2-3000개 만드는것보단
+만개 만들었어.......
+이제 진짜 뽄새 나는 케이크
+선물이 될 수 있을것같아
+이번달에도 무화과 케이크
+19,900원은 계속된다...!!!
+
+- 5.7만
+
+매장에서 파는 19,900원 무화과 케이크야....
+1호 사이즈
+원래는 29,900원이 맞는데...
+그것보다 더 받아야 맞는데
+파격적으로 아니.... 파괴적인 가격으로 가기로 했어...!
+대신에 우리 매장 꼭 기억해줘야해
+‘과일맛집1995’
+널리널리 알려줘.....
+동물성 100% 크림으로 만들었어
+무화과 왕창이 뭔지 보여줄게..
+하루에 최소 100개씩은 팔아야
+손해보지 않는 구조인데 나 걱정된다 ㅠㅠㅠㅠ.....!!
+
+- 3.7만
+
+[**naminsoo_ai**](https://www.threads.com/@naminsoo_ai)
+
+[2025년 1월 9일 오후 9:30](https://www.threads.com/@naminsoo_ai/post/DEmtpoqtWX2)
+
+혹시 알고리즘에 제가 떴다면
+이제 AI 고민은 끝났습니다.업무 중에 답답한 부분이 있다면
+AI로 해결할 방법을 찾아드리는
+컨설턴트로 일하고 있어요.지난 2년간 AI 정보를
+미친듯이 파고들었거든요.무엇을 해야하는지,
+왜 필요한지,
+어떻게 써야하는지.AI 활용의 본질을 찾다보니
+어떤 새로운 도구가 나와도
+잘 쓸 수 있게 됐어요.이 노하우를 여러분과
+나누고 싶습니다.앞으로 평생 어디서나 써먹는 AI 활용법
+차근차근 알려드릴게요 ✨
+
+- 8.8만
+
+[**yeon__coach**](https://www.threads.com/@yeon__coach)
+
+[**챗GPT로 쓴 거 티나는 자기소개서 특징**](https://www.threads.com/search?q=%EC%B1%97GPT%EB%A1%9C%20%EC%93%B4%20%EA%B1%B0%20%ED%8B%B0%EB%82%98%EB%8A%94%20%EC%9E%90%EA%B8%B0%EC%86%8C%EA%B0%9C%EC%84%9C%20%ED%8A%B9%EC%A7%95&serp_type=tags&tag_id=18433311502076858)
+
+[2024년 12월 13일 오후 9:00](https://www.threads.com/@yeon__coach/post/DDhIuaOPPfd)
+
+챗GPT로 쓴 거 티나는 자기소개서 특징챗GPT로 자소서 쓰는거 강의 하다보니 귀신 같이 보이더라고
+특히 이 3가지⬇️1. ~할/될 것입니다.
+- 어체가 어색하고 다짐을 보여줘야 하는 맥락에서 가설 문장은 20%의 의지 밖에 보이지 않아.2. 우리
+- 입사 전인데 뭘 우리라고 써! 챗GPT는 어떤 경우에도 거부감을 주지 않으려고 하는 경향이 강해. 좋은 글에 대한 안전성을 지나치게 추구때문이지.3. 쉼표 남발
+- 챗GPT는 패턴을 학습한 결과값으로 문장을 제공하는 터라 쉼표가 유독 많아. 그래서 그냥 '써줘'라고 하면 인공적인 느낌을 받게 하지.그.래.서 이 특징을 없애는 프롬프터들을 만들어 챗GPT를 학습시켰어🤗
+좋아요로 반응보고 풀어볼게! 없으면 나 혼자 써야지ㅎㅎ일단 댓글에 그동안 프롬프터들 공유하고 갈게⬇️
+(지원동기, 입사 후 포부, 직무역량 등)
+
+- 1.3만
+
+첫 AI 제품합성 연습 소감: 번거롭다하지만 실제 세팅 촬영에 필요한 스텝 인원과 들어가는 품을 생각하면 상대적으로 편리해진 건 사실이지. 일단 비용 절감은 뭐 말할 것도 없고.
+아무튼 영상에서도 텍스트 왜곡을 최소화하려면 패키지 디자인 벡터 파일이 필요한 거 같기도. 벗뜨 귀찮은 걸 극도로 싫어하기에 그냥 더 빨리 AI 툴들이 발전하길 희망🥹Tool: 미드저니, topview ai, 힉스필드, 포토샵, 인디자인, 제미나이, 챗GPT
+
+- 1.3만
+
+AI 영상 작업을 할 때, 저는 반드시 거치는 프로세스가 있습니다.
+바로 Magnafic 활용입니다.
+미드저니나 다른 생성형 AI를 사용할 때 가장 큰 문제 중 하나가 ‘AI스럽게’ 보이는 부분인데요, 저는 이미지를 생성한 후 반드시 한 번 업스케일 과정을 거칩니다. 이때 사용하는 AI가 바로 Magnafic AI입니다.
+사용 방법은 다음과 같습니다.
+Resemblance 부분을 제외한 나머지 값은 -10으로 설정합니다.
+→ 이렇게 하면 원본을 최대한 유지할 수 있습니다.
+프롬프트에 아래 내용을 입력합니다.
+( 프롬포트는 댓글에 )
+이 과정을 거쳐 업스케일하면, AI 특유의 부자연스러운 느낌이 줄어들고 훨씬 디테일하고 실사에 가까운 결과를 얻을 수 있습니다.
+그 후 Kling으로 영상화 작업을 진행합니다.
+
+- 2만
+
+떨리는 첫 스레드! 미드저니로 너무 좋아하는 90년대 홍콩 차찬탱 표현 연습해봤어요. 왕가위 영화 좋아...
+이런 무드 좋아하는 분 있나요?
+I will share my AI journey here!
+
+- 3.4만
+
+[디자인 AI 도구 TOP10]
+어차피 알려줘도 100명 중 99명 안 씀.
+
+1. 로고 & 브랜딩 디자인 ‘Looka’
+2. 고퀄리티 이미지 생성 ‘Midjourney’
+3. AI 포토샵 ‘Adobe Firefly’
+4. 웹디자인 & UIUX ‘Uizard’
+5. SNS 디자인 ‘Canva AI’
+6. 타이포그래피 최적화 ‘Fontjoy’
+7. 이미지 리터칭 & 업스케일 ‘Let’s Enhance’
+8. AI 색상 조합 ‘Khroma’
+9. 자동 디자인 생성 ‘Designify’
+10. 배경 제거 & 편집 ‘Removebg’
+위 10가지만 알아도 디자인 작업 속도 업!
+앞으로 더 많은 디자인 꿀팁 공유할게요 :)
+
+- 1.6만
+
+오우!
+난 모션그래픽으로 9년을 일했는데
+어디서도 스테프 픽을 받은적은 없었어.
+그런데 3개월밖에 안써본 AI로. 하루만에 만든 작업이
+노트폴리오픽을 받고 인스타페이지에도 소개되었어!
+그냥 나만의 궁금증 해결 실험이였는데
+다른사람들도 관심있게 봐주어 얼떨떨하고 기분좋아!
+우리 같이 AI 파헤쳐보자!
+
+- 10만
+
+AI로 귀멸의 칼날 만들기
+이미지 생성 : 나노바나나
+이미지 → 영상 변환 : Hailuo AI
+목소리 : 녹음 후 Voli AI
+효과음 생성 : Adobe Firefly
+영상 편집 : Adobe Premiere
+제작 시간 : 7시간
+
+- 10만
+
+AI 2달간 죽어라판 사람의 AI 공부의 총집본
+AI 공부를 못하겠다구요? 알려주는 사람이 없다구요?? 강의는 비싸죠?
+그런 당신을 위해 제대로 준비했습니다.
+1.GPT-제대로 활용하기 전자책
+2.마소 구글 OPEN AI 자료 풀번역+원본 링크[신규 번역본 추가]
+각종 AI 팁, 활용법, 제대로 만든 프롬프트 전부다 정리해뒀습니다.
+[좋아요 리포한번만 부탁드립니다.]
+
+사실 주말에 올리려 했는데 내일 OPEN AI 코딩관련 패치가 나와
+테스트에 바쁠것같아 미리올립니다.
+[신규]구글 프롬프트 엔지니어링 가이드북 AI로 번역본 추가
+공부하는 방법 설명해 드리겠습니다.
+1.총집본 1편 [다양한 ai 제대로쓰기] 편에 노트북 LM을 참고
+2. 프로젝트 만들기글 참고해 프로젝트만들어서 자동 제작기 완성
+이게 끝입니다. 책 읽지마시고 AI에게 넣어서 편하게 공부하세요
+읽어도 좋게 만들었지만 진짜 AI에 넣어서 공부하는데 특화되도록
+설계한 책들입니다. 기존하곤 공부 방식이 다릅니다.
+일부로 한줄로길게 만든이유가, AI쓰면서 편하게 공부하길 바래 만든거니
+꼭 써보세요 결국 써야 빨리늘어요!!!
+AI에 넣어서 공부하세요!!
+배우면 뭘할수있는지 다정리했고, 진짜 퀄리티는 자신합니다.
+이거하나만 제대로 봐도 다른 강의안들어도 될정도로 준비했습니다.
+
+- 1만
+
+2025 돈을 쓸어담을 수 있는 AI 도구들 Top7이미지 생성&편집 👉 나노바나나
+영상 만들기 👉 Veo3
+영상 편집 👉 Vrew
+글쓰기 👉 Claude 4.1 Opus
+유튜브 요약 👉 Gemini
+자료 조사 👉 챗GPT 딥리서치
+코딩 👉 Claude Code
+
+- 18만
+
+[**life_cheerer_**](https://www.threads.com/@life_cheerer_)
+
+[2025년 1월 28일 오후 12:55](https://www.threads.com/@life_cheerer_/post/DFWtx_HT9J8)
+
+블로그 할 때 AI 쓰지마...한 번 쓰면 못 끊으니까...😭포스팅 시간 3시간에서
+20분으로 줄여 준
+프롬프트...공개해도 되겠지?..이 프롬프트 사용해 본 사람들은
+이제 AI 안 쓰고 포스팅을
+못 하겠데...그리고 글쓰기만 해주는 게 아냐.
+✔️키워드 추출
+✔️제목 짓기
+✔️목차 뽑기
+✔️포스팅 작성
+✔️검토까지프롬프트 전부~~ 알려줄게.
+저장하고 똑똑하게 써보자
+
+1. 상위노출에 유리한 키워드 프롬프트[00] 주제로 블로그를 작성하려고 합니다.
+타겟 독자는 [00]입니다.
+1) 이 주제와 관련된 롱테일 키워드 20개를 추천해주세요.
+- 실제 검색 수요가 있는 키워드
+- 경쟁이 덜한 틈새 키워드
+- 구체적인 검색 의도가 담긴 키워드
+2) 추천한 키워드 중에서:
+- 정보성 키워드 TOP 5
+- 경험/후기 키워드 TOP 5
+- 비교/분석 키워드 TOP 5
+를 선별해서 알려주세요.
+
+- 25만
+
+대학원생이 알았으면 좋았을 정보들..
+
+- 자료 정리 : NotebookLM
+- 논문 서치 : AlphaXiv
+- 자료 검색 : Perplexity
+- 논문 번역 : PDFMathTranslate
+- 데이터 시각화 : Colab Gemini
+- 인터뷰/녹취/회의 정리 : Tiro
+- 자료 도식화 : Napkin AI
+각 세부 사용방법 및 링크는 댓글에서 확인하세요! 👇🏻
+
+- 46만
+
+[**stockkkk_kr**](https://www.threads.com/@stockkkk_kr)
+
+[2025년 4월 28일 오후 9:03](https://www.threads.com/@stockkkk_kr/post/DI_VQWpSymN)
+
+[직장 막내들 주목] 이거 알면 회사생활 쉽다!1. [ChatGPT.com](https://l.threads.com/?u=http%3A%2F%2FChatGPT.com%2F&e=AT00r0nPsvdA7xoYGiOWcCYC3bOGCKgnYWFoGHLociFgKzxmRejJ4ZPlbiMsZJcnFUkg3DZ1nXnhfwUl7SEupZBSIZK9nBM9QLjpm95NRCJxHyQmTzKA2pQtDS3zVIhQYQU3LLw) – 모르면 바로 물어봐.
+2. [RecCloud.com](https://l.threads.com/?u=http%3A%2F%2FRecCloud.com%2F&e=AT00r0nPsvdA7xoYGiOWcCYC3bOGCKgnYWFoGHLociFgKzxmRejJ4ZPlbiMsZJcnFUkg3DZ1nXnhfwUl7SEupZBSIZK9nBM9QLjpm95NRCJxHyQmTzKA2pQtDS3zVIhQYQU3LLw) – 녹음하면 바로 텍스트로
+3. [MidJourney.com](https://l.threads.com/?u=http%3A%2F%2FMidJourney.com%2F&e=AT00r0nPsvdA7xoYGiOWcCYC3bOGCKgnYWFoGHLociFgKzxmRejJ4ZPlbiMsZJcnFUkg3DZ1nXnhfwUl7SEupZBSIZK9nBM9QLjpm95NRCJxHyQmTzKA2pQtDS3zVIhQYQU3LLw) – 키워드만 치면 디자인
+4. [Replit.com](https://l.threads.com/?u=http%3A%2F%2FReplit.com%2F&e=AT00r0nPsvdA7xoYGiOWcCYC3bOGCKgnYWFoGHLociFgKzxmRejJ4ZPlbiMsZJcnFUkg3DZ1nXnhfwUl7SEupZBSIZK9nBM9QLjpm95NRCJxHyQmTzKA2pQtDS3zVIhQYQU3LLw) – 개발 몰라도 코딩 가능.
+5. [Synthesia.ai](https://l.threads.com/?u=http%3A%2F%2FSynthesia.ai%2F&e=AT00r0nPsvdA7xoYGiOWcCYC3bOGCKgnYWFoGHLociFgKzxmRejJ4ZPlbiMsZJcnFUkg3DZ1nXnhfwUl7SEupZBSIZK9nBM9QLjpm95NRCJxHyQmTzKA2pQtDS3zVIhQYQU3LLw) – 얼굴 안 찍고 영상 제작.
+6. [Soundraw.io](https://l.threads.com/?u=http%3A%2F%2FSoundraw.io%2F&e=AT00r0nPsvdA7xoYGiOWcCYC3bOGCKgnYWFoGHLociFgKzxmRejJ4ZPlbiMsZJcnFUkg3DZ1nXnhfwUl7SEupZBSIZK9nBM9QLjpm95NRCJxHyQmTzKA2pQtDS3zVIhQYQU3LLw) – 3분 만에 음악 생성.
+7. [genspark.ai](https://l.threads.com/?u=http%3A%2F%2Fgenspark.ai%2F&e=AT00r0nPsvdA7xoYGiOWcCYC3bOGCKgnYWFoGHLociFgKzxmRejJ4ZPlbiMsZJcnFUkg3DZ1nXnhfwUl7SEupZBSIZK9nBM9QLjpm95NRCJxHyQmTzKA2pQtDS3zVIhQYQU3LLw) – 초고속 정확 검색.
+8. [napkin.ai](https://l.threads.com/?u=http%3A%2F%2Fnapkin.ai%2F&e=AT00r0nPsvdA7xoYGiOWcCYC3bOGCKgnYWFoGHLociFgKzxmRejJ4ZPlbiMsZJcnFUkg3DZ1nXnhfwUl7SEupZBSIZK9nBM9QLjpm95NRCJxHyQmTzKA2pQtDS3zVIhQYQU3LLw) – 클릭 몇 번으로 차트 뽑기.
+9. [recraft.ai](https://l.threads.com/?u=http%3A%2F%2Frecraft.ai%2F&e=AT00r0nPsvdA7xoYGiOWcCYC3bOGCKgnYWFoGHLociFgKzxmRejJ4ZPlbiMsZJcnFUkg3DZ1nXnhfwUl7SEupZBSIZK9nBM9QLjpm95NRCJxHyQmTzKA2pQtDS3zVIhQYQU3LLw) – 비주얼 디자인 뚝딱.
+10. [boo.ai](https://l.threads.com/?u=http%3A%2F%2Fboo.ai%2F&e=AT00r0nPsvdA7xoYGiOWcCYC3bOGCKgnYWFoGHLociFgKzxmRejJ4ZPlbiMsZJcnFUkg3DZ1nXnhfwUl7SEupZBSIZK9nBM9QLjpm95NRCJxHyQmTzKA2pQtDS3zVIhQYQU3LLw) – 글쓰기 자동화.
+11. [cleanvoice.ai](https://l.threads.com/?u=http%3A%2F%2Fcleanvoice.ai%2F&e=AT00r0nPsvdA7xoYGiOWcCYC3bOGCKgnYWFoGHLociFgKzxmRejJ4ZPlbiMsZJcnFUkg3DZ1nXnhfwUl7SEupZBSIZK9nBM9QLjpm95NRCJxHyQmTzKA2pQtDS3zVIhQYQU3LLw) – 녹음 음질 자동 정리.
+12. [podcastle.ai](https://l.threads.com/?u=http%3A%2F%2Fpodcastle.ai%2F&e=AT00r0nPsvdA7xoYGiOWcCYC3bOGCKgnYWFoGHLociFgKzxmRejJ4ZPlbiMsZJcnFUkg3DZ1nXnhfwUl7SEupZBSIZK9nBM9QLjpm95NRCJxHyQmTzKA2pQtDS3zVIhQYQU3LLw) – 팟캐스트 초간단 편집.
+
+- 2만회
+
+정부지원 사업계획서 Chat GPT 프롬프트
+페이퍼 업무에서 벗어나 ‘진짜’ 사업에 도움되는 일을 하세요.
+Chat GPT로 이제 정부 지원도 절대 놓치지 마세요.
+정부지원 사업계획서 2배는 빠르게 작성해줄 프롬프트
+
+- 46만회
+
+어차피 알려줘도 100명 중 97명은 안함
+ChatGPT로 해외 여행 비용 100만원 아끼자
+최저가 항공권 예약부터 여행 일정 설계, 위기 대처까지 실질적인 여행 고민을 AI가 해결해주는 고급 프롬프트 8종 대방출 👇
+그냥 프롬프트 복사 & 붙여넣기 & 괄호작성 하면 끝!!
+(저장 안하면 너만 손해임)
+
+1. 항공권을 가장 싸게 사는 타이밍 & 방법 프롬프트
+프롬프트:
+“당신은 전 세계 항공권 가격 패턴과 발권 트렌드를 분석해 고객에게 최적의 예약 타이밍을 제안하는 여행사 베테랑입니다.
+고객이 [출발지]에서 [도착지]로 [여행 예정일]에 떠날 계획입니다.
+2. 해당 노선의 최저가 평균 예약 시점을 알려주세요.
+3. 요일, 시간대, 항공사별 가격 차이를 비교해 주세요.
+4. 스카이스캐너, Google Flights 등 가격 추적 팁도 포함해 주세요.”
+
+1. 여행 일정표 자동 설계 프롬프트 (도시별/테마별)
+프롬프트:
+“당신은 여행지 전문가이자, 여행자 성향에 맞춘 최적의 일정표를 짜는 맞춤 여행 설계 전문가입니다.
+여행 목적지: [도시 이름], 여행 기간: [일수], 여행 성향: [가족/혼자/커플/힐링/먹방 등]
+2. 효율적인 루트를 중심으로 하루 단위 동선과 추천지 2~3곳씩 제안해 주세요.
+3. 이동 수단, 식사 장소, 여유 시간도 반영해 주세요.
+4. 동선이 꼬이지 않도록 지도 기반 정리 방식도 함께 알려주세요.”
+
+- 47만
+
+[**markekase**](https://www.threads.com/@markekase)
+
+[**AI**](https://www.threads.com/search?q=AI&serp_type=tags&tag_id=18392111818029156)
+
+[2025년 1월 29일 오후 8:21](https://www.threads.com/@markekase/post/DFaFuPfSsVB)
+
+AI 안 쓰면 올해도 돈 못 법니다
+꼭 알려줘도 안쓰더라;1. ChatGPT – 이메일,마케팅 카피 등 글쓰기 자동화
+2. Jasper AI – 광고 글을 빠르고 고퀄리티로 작성
+3. Midjourney – AI로 이미지, 상세페이지 제작
+4.Runway AI – 영상 자동 편집 및 효과 적용
+5. DeepL – 구글 번역보다 자연스러운 AI 번역기
+6. Perplexity AI – 정보를 정확하게 검색하는 AI 엔진
+7. Synthesia – AI 아바타가 영상 속에서 말하는 홍보·교육 콘텐츠 제작
+8. Gamma App – 제안서·PPT를 AI가 자동 생성
+9. Make – 클릭 몇 번으로 업무 자동화
+10. Canva AI –초보도 쉽게 포스터·SNS 이미지 제작
+
+- 39만
+
+사람들이 챗GPT에서 Gemini로 갈아타는 이유
+최근 구글 Gemini를 사용하는 분들이 부쩍 늘어난 것 같습니다.
+아직 Gemini의 뛰어난 기능을 잘 모르시는 분들을 위해 기능과 꿀팁을 총 정리해봤습니다. 🧵👇🏻
+
+- 40만회
+
+사람들이 챗GPT에서 Gemini로 갈아타는 이유
+최근 구글 Gemini를 사용하는 분들이 부쩍 늘어난 것 같습니다.
+아직 Gemini의 뛰어난 기능을 잘 모르시는 분들을 위해 기능과 꿀팁을 총 정리해봤습니다. 🧵👇🏻
+
+- 17만회
+
+2개월 만에 유튜브 구독자 27만 동물 캐릭터 채널 이렇게 만들면 됩니다
+AI Tool 만으로 고정 캐릭터부터 영상 편집까지 누구나 손쉽게 제작 가능
+ChatGPT로 아이디어 뽑고 아래 가이드 따라만 하면 초보도 바로 만듭니다
+프롬프트도 적어놨으니 지금 바로 다른 동물로 도전하세요
+(상세 가이드 댓글에 👇)
+
+- 13만회
+
+안쓰면 진짜 바보되는 글쓰기 AI 10가지1. ChatGPT – 글쓰기, 자동화된 답변 생성
+2. Claude 3 – 문맥 이해력 높은 AI, 복잡한 글쓰기 지원
+3. Jasper AI – 광고 카피, SNS 콘텐츠 자동 생성
+4.
+
+[Copy.ai](https://l.threads.com/?u=http%3A%2F%2FCopy.ai%2F&e=AT00r0nPsvdA7xoYGiOWcCYC3bOGCKgnYWFoGHLociFgKzxmRejJ4ZPlbiMsZJcnFUkg3DZ1nXnhfwUl7SEupZBSIZK9nBM9QLjpm95NRCJxHyQmTzKA2pQtDS3zVIhQYQU3LLw)
+
+– 카피, 제품 설명문 빠르게 작성
+5. Writesonic – SEO 블로그 & 문구 제작
+6. Quillbot – 문장 재구성 (패러프레이징 강력)
+7. Grammarly – AI 기반 문법 교정, 가독성
+8. Hemingway Editor – 글쓰기 보조 툴
+9. Sudowrite – 소설, 창작 글쓰기 보조 (작가 필수)
+10. Frase – SEO 콘텐츠 기획 & 글 작성
+
+- 10만회
+
+대부분의 사람들은 AI를 자기 성찰 & 심리 상담에 활용하는 방법을 잘 모른다.
+이 7가지 프롬프트를 ChatGPT에 복사 & 붙여넣기 하면 스스로를 더 깊이 이해하고 성장할 수 있다.
+(🧠 7가지 자기 성찰 프롬프트👇)
+
+1️⃣ 감정 패턴 분석기• “나는 [특정 상황]에서 강하게 반응하는데,
+• 이 반응을 일으키는 내면의 믿음이나 트리거가 뭘까?
+• 그리고 나는 어떻게 하면 이를 더 건강하게 다룰 수 있을까?”💡 예: “나는 상대방이 답장을 늦게 하면 화가 난다. 왜 그럴까?”
+
+2️⃣ 과잉 생각 해독 (Overthinking Detox)
+• “나는 자꾸 [특정 문제]에 대해 과하게 생각한다.
+• 내 뇌가 왜 이런 식으로 작동하는지 분석하고,
+• 결정을 더 자신 있게 내릴 수 있는 프레임워크를 제안해줘.”
+💡 예: “나는 대화를 할 때 자꾸 상대가 나를 싫어하는 것 같다고 생각해.”
+
+3️⃣ 자기 방해 탐지기 (Self-Sabotage Detector)
+• 내가 [커리어/ 인간관계/ 개인 성장 등]에서 무의식적으로 나를 가로막고 있는 3가지 습관이 뭘까?
+• 그리고 이를 멈추기 위해 어떤 단계를 밟아야 할까?”
+💡 예: “나는 항상 완벽해야 한다는 생각 때문에 일을 미룬다.“
+
+- 11만회
+
+아직도 ChatGPT로 돈 못 벌면 해야 할 11가지
+어차피 알려줘도 100명 중 97명 안함.
+
+1. Ai 전자책 써서 아마존·크몽 판매
+2. 블로그 글 자동화해 애드센스 수익화
+3. 유튜브 쇼츠 대본 자동생성해서 채널 키우기
+4. GPT로 프롬프트 만들어서 팔기
+5. 상품 리뷰 콘텐츠 GPT로 생성해 제휴마케팅
+6. 인스타 콘텐츠 자동화로 팔로워 늘려 수익화
+7. gpt 온라인 강의 만들어 vod 판매하기
+8. GPT 기반 뉴스레터 만들어 유료 구독자 모으기
+9. 이력서·자소서 작성 서비스 판매
+10. ai 콘텐츠로 뉴스레터 구독자 모아 유료 커뮤니티(멤버십) 운영
+11. 해외 유튜브 영상 번역 후 수익화
+이 중 2개만 꾸준히 하면 월 최소 500은 쉽게 넘습니다.
+(대부분은 어차피 안 하고 저장만 하는거 알지?
+빠르게 실행하면 2025년 숨은 승자 확정.)
+
+- 23만
+
+AI 툴 총 정리본
+이거만 알면 끝‼️1.
+
+[ChatGPT.com](https://l.threads.com/?u=http%3A%2F%2FChatGPT.com%2F&e=AT00r0nPsvdA7xoYGiOWcCYC3bOGCKgnYWFoGHLociFgKzxmRejJ4ZPlbiMsZJcnFUkg3DZ1nXnhfwUl7SEupZBSIZK9nBM9QLjpm95NRCJxHyQmTzKA2pQtDS3zVIhQYQU3LLw)
+
+– AI 텍스트 생성
+2.
+
+[Runway.ml](http://runway.ml/)
+
+– 영상 편집
+3.
+
+[Krea.ai](http://krea.ai/)
+
+– 로고 제작
+4.
+
+[ElevenLabs.io](http://elevenlabs.io/)
+
+– 음성 복제
+5.
+
+[Gamma.app](http://gamma.app/)
+
+– 문서 디자인
+6.
+
+[Suno.ai](http://suno.ai/)
+
+– 음악 제작
+7.
+
+[RecCloud.com](http://reccloud.com/)
+
+– 실시간 음성 텍스트 변환
+8.
+
+[Relume.io](http://relume.io/)
+
+– 웹사이트 디자인
+9.
+
+[Descript.com](http://descript.com/)
+
+– 오디오 편집
+10.
+
+[Fliki.ai](https://l.threads.com/?u=http%3A%2F%2FFliki.ai%2F&e=AT00r0nPsvdA7xoYGiOWcCYC3bOGCKgnYWFoGHLociFgKzxmRejJ4ZPlbiMsZJcnFUkg3DZ1nXnhfwUl7SEupZBSIZK9nBM9QLjpm95NRCJxHyQmTzKA2pQtDS3zVIhQYQU3LLw)
+
+– AI 음성 더빙
+11.
+
+[Tome.app](https://l.threads.com/?u=http%3A%2F%2FTome.app%2F&e=AT00r0nPsvdA7xoYGiOWcCYC3bOGCKgnYWFoGHLociFgKzxmRejJ4ZPlbiMsZJcnFUkg3DZ1nXnhfwUl7SEupZBSIZK9nBM9QLjpm95NRCJxHyQmTzKA2pQtDS3zVIhQYQU3LLw)
+
+– 빠른 프레젠테이션 제작
+12.
+
+[Perplexity.ai](https://l.threads.com/?u=http%3A%2F%2FPerplexity.ai%2F&e=AT00r0nPsvdA7xoYGiOWcCYC3bOGCKgnYWFoGHLociFgKzxmRejJ4ZPlbiMsZJcnFUkg3DZ1nXnhfwUl7SEupZBSIZK9nBM9QLjpm95NRCJxHyQmTzKA2pQtDS3zVIhQYQU3LLw)
+
+– AI 검색 비서
+13.
+
+[PicWish.com](https://l.threads.com/?u=http%3A%2F%2FPicWish.com%2F&e=AT00r0nPsvdA7xoYGiOWcCYC3bOGCKgnYWFoGHLociFgKzxmRejJ4ZPlbiMsZJcnFUkg3DZ1nXnhfwUl7SEupZBSIZK9nBM9QLjpm95NRCJxHyQmTzKA2pQtDS3zVIhQYQU3LLw)
+
+– 사진 편집
+14.
+
+[LumaLabs.ai](https://l.threads.com/?u=http%3A%2F%2FLumaLabs.ai%2F&e=AT00r0nPsvdA7xoYGiOWcCYC3bOGCKgnYWFoGHLociFgKzxmRejJ4ZPlbiMsZJcnFUkg3DZ1nXnhfwUl7SEupZBSIZK9nBM9QLjpm95NRCJxHyQmTzKA2pQtDS3zVIhQYQU3LLw)
+
+– 3D 모델링
+
+- 10만
+
+AI어플 이정도는 알아야 해
+1.
+
+[ChatGPT.com](http://chatgpt.com/)
+
+– 모두쓰는 어플
+2.
+
+[RecCloud.com](http://reccloud.com/)
+
+– 음성 자동
+3.
+
+[Tome.app](http://tome.app/)
+
+– 발표자료 자동
+4.
+
+[Pika.art](http://pika.art/)
+
+– 영상 자동생성
+5.
+
+[Gamma.app](http://gamma.app/)
+
+– 문서 디자인 완성
+6.
+
+[Suno.ai](http://suno.ai/)
+
+– 음악 만들기
+7.
+
+[PicWish.com](http://picwish.com/)
+
+– 사진 편집
+8.
+
+[Perplexity.ai](http://perplexity.ai/)
+
+– 리서치 도우미
+9.
+
+[Krea.ai](https://l.threads.com/?u=http%3A%2F%2FKrea.ai%2F&e=AT00r0nPsvdA7xoYGiOWcCYC3bOGCKgnYWFoGHLociFgKzxmRejJ4ZPlbiMsZJcnFUkg3DZ1nXnhfwUl7SEupZBSIZK9nBM9QLjpm95NRCJxHyQmTzKA2pQtDS3zVIhQYQU3LLw)
+
+– 로고 디자인 제작
+10.
+
+[Fliki.ai](https://l.threads.com/?u=http%3A%2F%2FFliki.ai%2F&e=AT00r0nPsvdA7xoYGiOWcCYC3bOGCKgnYWFoGHLociFgKzxmRejJ4ZPlbiMsZJcnFUkg3DZ1nXnhfwUl7SEupZBSIZK9nBM9QLjpm95NRCJxHyQmTzKA2pQtDS3zVIhQYQU3LLw)
+
+– 음성 더빙 자동화
+11.
+
+[Runway.ml](https://l.threads.com/?u=http%3A%2F%2FRunway.ml%2F&e=AT00r0nPsvdA7xoYGiOWcCYC3bOGCKgnYWFoGHLociFgKzxmRejJ4ZPlbiMsZJcnFUkg3DZ1nXnhfwUl7SEupZBSIZK9nBM9QLjpm95NRCJxHyQmTzKA2pQtDS3zVIhQYQU3LLw)
+
+– 영상 편집 AI
+12.
+
+[Relume.io](https://l.threads.com/?u=http%3A%2F%2FRelume.io%2F&e=AT00r0nPsvdA7xoYGiOWcCYC3bOGCKgnYWFoGHLociFgKzxmRejJ4ZPlbiMsZJcnFUkg3DZ1nXnhfwUl7SEupZBSIZK9nBM9QLjpm95NRCJxHyQmTzKA2pQtDS3zVIhQYQU3LLw)
+
+– 웹사이트 자동
+13.
+
+[LumaLabs.ai](https://l.threads.com/?u=http%3A%2F%2FLumaLabs.ai%2F&e=AT00r0nPsvdA7xoYGiOWcCYC3bOGCKgnYWFoGHLociFgKzxmRejJ4ZPlbiMsZJcnFUkg3DZ1nXnhfwUl7SEupZBSIZK9nBM9QLjpm95NRCJxHyQmTzKA2pQtDS3zVIhQYQU3LLw)
+
+– 3D 모델
+14.
+
+[Descript.com](https://l.threads.com/?u=http%3A%2F%2FDescript.com%2F&e=AT00r0nPsvdA7xoYGiOWcCYC3bOGCKgnYWFoGHLociFgKzxmRejJ4ZPlbiMsZJcnFUkg3DZ1nXnhfwUl7SEupZBSIZK9nBM9QLjpm95NRCJxHyQmTzKA2pQtDS3zVIhQYQU3LLw)
+
+– 음성 편집
+15.
+
+[ElevenLabs.io](https://l.threads.com/?u=http%3A%2F%2FElevenLabs.io%2F&e=AT00r0nPsvdA7xoYGiOWcCYC3bOGCKgnYWFoGHLociFgKzxmRejJ4ZPlbiMsZJcnFUkg3DZ1nXnhfwUl7SEupZBSIZK9nBM9QLjpm95NRCJxHyQmTzKA2pQtDS3zVIhQYQU3LLw)
+
+– 목소리 복제
+
+- 46만
+
+[직장 막내들 주목] 이거 알면 회사생활 쉽다!1.
+
+[ChatGPT.com](http://chatgpt.com/)
+
+– 모르면 바로 물어봐.
+2.
+
+[RecCloud.com](http://reccloud.com/)
+
+– 녹음하면 바로 텍스트로
+3.
+
+[MidJourney.com](http://midjourney.com/)
+
+– 키워드만 치면 디자인
+4.
+
+[Replit.com](http://replit.com/)
+
+– 개발 몰라도 코딩 가능.
+5.
+
+[Synthesia.ai](http://synthesia.ai/)
+
+– 얼굴 안 찍고 영상 제작.
+6.
+
+[Soundraw.io](http://soundraw.io/)
+
+– 3분 만에 음악 생성.
+7.
+
+[genspark.ai](https://l.threads.com/?u=http%3A%2F%2Fgenspark.ai%2F&e=AT2-d7T18nsCybZl0Q4wzuj9BXnAQ2rr6o7ERBQSCoUzRZ3cj2XiEumSfqZG0TJRuCI_UlG7erHLpbLvN8eqHDZ4GLA7khmAHG3rOjl_NTCLDgSU3K7z6vK0-dBtdegGC_f1ozg)
+
+– 초고속 정확 검색.
+8.
+
+[napkin.ai](https://l.threads.com/?u=http%3A%2F%2Fnapkin.ai%2F&e=AT2-d7T18nsCybZl0Q4wzuj9BXnAQ2rr6o7ERBQSCoUzRZ3cj2XiEumSfqZG0TJRuCI_UlG7erHLpbLvN8eqHDZ4GLA7khmAHG3rOjl_NTCLDgSU3K7z6vK0-dBtdegGC_f1ozg)
+
+– 클릭 몇 번으로 차트 뽑기.
+9.
+
+[recraft.ai](https://l.threads.com/?u=http%3A%2F%2Frecraft.ai%2F&e=AT2-d7T18nsCybZl0Q4wzuj9BXnAQ2rr6o7ERBQSCoUzRZ3cj2XiEumSfqZG0TJRuCI_UlG7erHLpbLvN8eqHDZ4GLA7khmAHG3rOjl_NTCLDgSU3K7z6vK0-dBtdegGC_f1ozg)
+
+– 비주얼 디자인 뚝딱.
+10.
+
+[boo.ai](https://l.threads.com/?u=http%3A%2F%2Fboo.ai%2F&e=AT2-d7T18nsCybZl0Q4wzuj9BXnAQ2rr6o7ERBQSCoUzRZ3cj2XiEumSfqZG0TJRuCI_UlG7erHLpbLvN8eqHDZ4GLA7khmAHG3rOjl_NTCLDgSU3K7z6vK0-dBtdegGC_f1ozg)
+
+– 글쓰기 자동화.
+11.
+
+[cleanvoice.ai](http://cleanvoice.ai/)
+
+– 녹음 음질 자동 정리.
+12.
+
+[podcastle.ai](http://podcastle.ai/)
+
+– 팟캐스트 초간단 편집.
+
+- 11만
+
+미국에서 Gemini는 앱스토어 1위입니다
+다만 대다수의 사람들이 제대로 못쓰고 있어요
+제미나이 강의만들고 현강 자주하는 사람이 알려주는
+진짜 실전용 AI꿀팁 총집편
+1.제미나이 제대로쓰기 및 꿀팁 25개
+2 25년 .9월 최신 노트북 LM 가이드
+3.5가지 상용 PPT AI비교
+4.17장짜리 문서+ 어울리는 인포그래픽
+5.제미나이+구글캘린더 활용론
+6.제미나이 지침활용
+7.나노바나나 가이드북 100가지 사례+영상화의 극한
+
+- 47만
+
+AI 안 쓰면 올해도 돈 못 법니다
+꼭 알려줘도 안쓰더라;
+
+1. ChatGPT – 이메일,마케팅 카피 등 글쓰기 자동화
+2. Jasper AI – 광고 글을 빠르고 고퀄리티로 작성
+3. Midjourney – AI로 이미지, 상세페이지 제작
+4.Runway AI – 영상 자동 편집 및 효과 적용
+4. DeepL – 구글 번역보다 자연스러운 AI 번역기
+5. Perplexity AI – 정보를 정확하게 검색하는 AI 엔진
+6. Synthesia – AI 아바타가 영상 속에서 말하는 홍보·교육 콘텐츠 제작
+7. Gamma App – 제안서·PPT를 AI가 자동 생성
+8. Make – 클릭 몇 번으로 업무 자동화
+9. Canva AI –초보도 쉽게 포스터·SNS 이미지 제작
+
+- 18만
+
+블로그 할 때 AI 쓰지마...
+한 번 쓰면 못 끊으니까...😭
+포스팅 시간 3시간에서
+20분으로 줄여 준
+프롬프트...공개해도 되겠지?..
+이 프롬프트 사용해 본 사람들은
+이제 AI 안 쓰고 포스팅을
+못 하겠데...
+그리고 글쓰기만 해주는 게 아냐.
+✔️키워드 추출
+✔️제목 짓기
+✔️목차 뽑기
+✔️포스팅 작성
+✔️검토까지
+프롬프트 전부~~ 알려줄게.
+저장하고 똑똑하게 써보자
+
+- 4.8만
+
+1달만에 28만 구독자를 만든 '정서불안 김햄찌' 채널 만드는 방법 분석
+
+1. chatgpt에 동물,동물이 착용할 악세사리등을 추천받고, 이미지 프롬프트를 만든다.
+2. 프롬프트에서 고정이미지로 캐릭터를 쓸것이니 다시 프롬프트 만들어달라고 한다.
+3. 동물캐릭터의 세계관을 알려준다. ex)워라밸 살고있는 30대 직장인
+4. 직장인이 겪을 현실고증, 에피소드,스크립트 아이디어를 만들어 달라고 한다.
+5. '소라 ai'로 이미지 제작
+6. '하일로ai' 접속후 이미지를 동영상으로 변환
+7. '타입캐스트'등으로 음성제작
+8. 스타일에 맞는 편집으로 마무리
+
+- 39만
+
+사람들이 챗GPT에서 Gemini로 갈아타는 이유
+최근 구글 Gemini를 사용하는 분들이 부쩍 늘어난 것 같습니다.
+아직 Gemini의 뛰어난 기능을 잘 모르시는 분들을 위해 기능과 꿀팁을 총 정리해봤습니다.
+
+- 25만
+
+대학원생이 알았으면 좋았을 정보들..
+
+- 자료 정리 : NotebookLM
+- 논문 서치 : AlphaXiv
+- 자료 검색 : Perplexity
+- 논문 번역 : PDFMathTranslate
+- 데이터 시각화 : Colab Gemini
+- 인터뷰/녹취/회의 정리 : Tiro
+- 자료 도식화 : Napkin AI
+각 세부 사용방법 및 링크는 댓글에서 확인하세요! 👇🏻
+
+- 103만
+
+Step 1: Open your Gemini Ai
+Step 2: Upload your Photo
+Step 3: Copy this Prompt
+
+- 17만
+
+Check 3rd page for Prompt
+#trend #gimini #creativity
+
+<aside>
+👉
+
+2025.09.15 자료 끝
+
+</aside>
