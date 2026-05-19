@@ -10,6 +10,7 @@
 | 계정명 | URL | 팔로워 | 참고 포인트 |
 |:---|:---|:---|:---|
 | 4reels.pro | https://www.instagram.com/4reels.pro/ | 10.9만 | "How to make this:" 썸네일, PROMPT CTA, 결과 먼저 구조 |
+| newsdaddy.ai | https://www.instagram.com/newsdaddy.ai/ | — | "9살 아들이 따라하는 AI에이전트 만들기" — 아이+AI 실전 콘텐츠 구조 참고 |
 | kevkevkiwi | https://www.instagram.com/kevkevkiwi/ | — | 영상/릴스 |
 | prompts.ig | https://www.instagram.com/prompts.ig/ | — | AI 프롬프트 |
 | claye.ai | https://www.instagram.com/claye.ai/ | — | AI |
@@ -21,6 +22,39 @@
 ---
 
 ## 분석 메모
+
+### @prompts.ig (분석일: 2026-05-19)
+스크린샷: `screenshots/prompts.ig_20260519.png`
+
+**계정 현황**
+- 팔로워 43만3천 / 게시물 641 / Bio: "Viral AI + Art + Daily Prompt Drops, MidJourney Partner"
+- 하이라이트: 1M 뷰 달성 릴스 5개+ 정리
+
+**핵심 패턴**
+- 모든 게시물에 "PROMPT" 텍스트 오버레이 → 계정 정체성 즉각 인식
+- MidJourney Partner 공식 인증 배지 → 신뢰 구조
+- 게시물 자체가 CTA (보면 즉시 써야겠다는 욕구 유발)
+
+**가져갈 것**: "PROMPT 공유" CTA 포맷, 썸네일 텍스트 오버레이 일관성
+**버릴 것**: 비주얼/이미지 특화 포지션, 육아 맥락 없음
+
+---
+
+### @claye.ai (분석일: 2026-05-19)
+스크린샷: `screenshots/claye.ai_20260519.png`
+
+**계정 현황**
+- 팔로워 5만3천 / 게시물 297 / Bio: "Creating the future with AI, 270M+ views generated"
+- 포지셔닝: Kling 2.0 등 AI 영상 생성 전문
+
+**핵심 패턴**
+- FIRST FRAME → LAST FRAME: AI 변환 과정 시각화 포맷
+- Bio에 누적 수치("270M+ views") 표기 → 신뢰 구축
+
+**가져갈 것**: Before/After 프레임 포맷 → "딸이 그린 그림 → AI 완성" 변환 각도
+**버릴 것**: 도구 특화 포지션 (우리는 육아 맥락 필수)
+
+---
 
 ### @eng_khairallah1 (분석일: 2026-04-25)
 원본: 소셜 포스팅 — 프롬프트 엔지니어링 마스터 가이드 (영어/한국어)

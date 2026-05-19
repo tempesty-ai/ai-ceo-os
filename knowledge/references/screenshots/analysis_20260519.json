@@ -1,0 +1,83 @@
+[
+  {
+    "handle": "ai_underdog",
+    "category": "자사",
+    "priority": 1,
+    "url": "https://www.instagram.com/ai_underdog/",
+    "timestamp": "2026-05-19T05:26:52.245Z",
+    "screenshot": "ai_underdog_20260519.png",
+    "data": {
+      "followers": "17",
+      "headerText": "ai_underdog\nAI 언더독 🎬\n게시물 17\n팔로워 1044\n팔로우 231\n디지털 크리에이터\n✨ AI 이미지·영상 만드는 법\n⚡ 직접 써본 프롬프트만 공유\n🌈 필요한 꿀팁은 여기서"
+    },
+    "loginRequired": true,
+    "error": null
+  },
+  {
+    "handle": "newsdaddy.ai",
+    "category": "AI인사이트",
+    "priority": 2,
+    "url": "https://www.instagram.com/newsdaddy.ai/",
+    "timestamp": "2026-05-19T05:27:02.843Z",
+    "screenshot": "newsdaddy.ai_20260519.png",
+    "data": {
+      "followers": "833",
+      "headerText": "newsdaddy.ai\n뉴스대디\n게시물 833\n팔로워 7664\n팔로우 700\n디지털 크리에이터\n▪️독일IT 기업 레이오프 후\n▪️AI에이전트와 새출발한... \n더 보기"
+    },
+    "loginRequired": false,
+    "error": null
+  },
+  {
+    "handle": "prompts.ig",
+    "category": "AI인사이트",
+    "priority": 2,
+    "url": "https://www.instagram.com/prompts.ig/",
+    "timestamp": "2026-05-19T05:27:11.685Z",
+    "screenshot": "prompts.ig_20260519.png",
+    "data": {
+      "followers": "641",
+      "headerText": "prompts.ig\nprompts\n게시물 641\n팔로워 43.8만\n팔로우 119\n🚀 Viral AI Art • Daily Prompt Drops\n🤝 higgsfield Partner | MidJourney | Higgsfield | Veo | Nano Banana | Chatgpt\nNew... \n더 보기"
+    },
+    "loginRequired": false,
+    "error": null
+  },
+  {
+    "handle": "claye.ai",
+    "category": "AI인사이트",
+    "priority": 2,
+    "url": "https://www.instagram.com/claye.ai/",
+    "timestamp": "2026-05-19T05:27:20.067Z",
+    "screenshot": "claye.ai_20260519.png",
+    "data": {
+      "followers": "207",
+      "headerText": "claye.ai\nClaye\n게시물 207\n팔로워 13.9만\n팔로우 0\nCreating the future with AI\n⚡ AI creativity, tools & visuals\n🚀 250M+ views generated"
+    },
+    "loginRequired": false,
+    "error": null
+  },
+  {
+    "handle": "ai_dori_",
+    "category": "AI육아",
+    "priority": 2,
+    "url": "https://www.instagram.com/ai_dori_/",
+    "timestamp": "2026-05-19T05:27:28.648Z",
+    "screenshot": "ai_dori__20260519.png",
+    "data": {
+      "followers": "114",
+      "headerText": "ai_dori_\nAI 그리고 디자이너 • 도리\n게시물 114\n팔로워 10.6만\n팔로우 1023\n🎸 쏟아져내리는 다양한 AI 툴들, 대신 써보고 알려드려요!\n🎸 최고로 하드락한 디자이너가 되고 싶습니다.\n🎸 Genspark AI 공식 앰버서더 2025"
+    },
+    "loginRequired": false,
+    "error": null
+  },
+  {
+    "handle": "knock_making",
+    "category": "AI육아",
+    "priority": 2,
+    "url": "https://www.instagram.com/knock_making/",
+    "timestamp": "2026-05-19T05:27:38.680Z",
+    "screenshot": "knock_making_20260519.png",
+    "data": {},
+    "loginRequired": false,
+    "error": null
+  }
+]
